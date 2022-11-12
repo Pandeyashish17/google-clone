@@ -49,7 +49,7 @@ const Header = () => {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://pbs.twimg.com/profile_images/1292721383546318850/KU8pErTW_400x400.jpg"
+          url="https://scontent.fbwa3-1.fna.fbcdn.net/v/t39.30808-6/290078160_697214114719068_5905452537190162581_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=gtINdLdCWDwAX9rdEmU&_nc_ht=scontent.fbwa3-1.fna&oh=00_AfAlfflAkJrebPmdGTpz57MJOjwvEGOacxZXbkl-c9ANTA&oe=63704ABE"
         />
       </div>
 
